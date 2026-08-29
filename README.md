@@ -80,7 +80,7 @@ sudo firewall-cmd --reload
 Acceso vía terminal cliente tras la autenticación de huella criptográfica SHA256/ED25519:
 
 ```powershell
-ssh usuario@192.168.100.12
+ssh usuario@IP_DEL_USUARIO
 ```
 
 ---
